@@ -179,7 +179,7 @@ table.preparation tr{
     div.colonne2 {
         float: right;
             }
-  }
+}
   @media only screen and (min-width: 900px) {
     div.contenu {
         margin-left: auto;
